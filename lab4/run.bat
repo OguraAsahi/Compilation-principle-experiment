@@ -1,0 +1,2 @@
+parser GCD.c
+pause
